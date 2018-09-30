@@ -1,10 +1,10 @@
-**Find A Palindrome**
+Find A Palindrome
 
 How it works:
 
 Step # 1: Place a text file under sr/main/resources
 
-Step #2 : Run the `FindPalindrome` program to find if the file contains a palindrome.
+Step #2 : Run the FindPalindrome program to find if the file contains a palindrome.
 
 Business Logic:
 
