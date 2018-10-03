@@ -27,7 +27,7 @@ public class PalindromeServiceImpl implements PalindromeService {
                 BufferedReader bReader = new BufferedReader(
                         new InputStreamReader(oracle.openStream()));
 
-                log.info("What does the page contain " + bReader.toString());
+                log.info("What does the page contain " + bReader.readLine());
 
                 // It is used to read a line
                 String line;
